@@ -797,3 +797,5 @@ with open(output_path, 'w', encoding='utf-8') as f:
 
 print(f"Portfolio saved to: {output_path}")
 print(f"File size: {len(html_content)} characters")
+
+
